@@ -1,0 +1,3 @@
+[submodule "project_b"]
+	path = project_b
+	url = git@github.com:Theosakamg-Sandbox/project_b.git
